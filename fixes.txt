@@ -1,0 +1,3 @@
+i am the fixed file which will be used to fixed the bug 
+the bugs fixed file is here 
+fixed another bug 
